@@ -1,0 +1,28 @@
+.title1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 60px;
+  color: white;
+  border-radius: 20px;
+}
+.buttoncustom1 {
+  color: #79edd7;
+  margin-left: 0;
+}
+.col11 {
+  background-color: #131118;
+}
+.faq {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 10px;
+  color: #ffffff;
+}
+.span {
+  color: #8b8ca7;
+}
+.input {
+  border-radius: 1px solid white;
+}
